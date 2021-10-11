@@ -1,9 +1,3 @@
-# 操作规范
-1. 每天下班提交代码（git push）
-2. 每天上班拉取代码(git pull)
-3. 解决代码冲突(git merge)
-4. 拉取最初仓库(git clone url)
-
 ## 项目展示
 #### 商品页面
 ![商品主页](./img/zhuye.png)
